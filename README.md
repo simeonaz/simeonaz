@@ -15,8 +15,8 @@ I’m a **full-stack web developer** with 2 years of professional experience. I 
 ### 💼 Selected Projects
 
 #### [Iryka](https://app.iryka.com/)
-Website creation platform built on a modular template gallery.
-Features: site customization, responsive interface, one-click deployment, e-commerce, and appointment scheduling.
+Website creation platform built on a modular template gallery.<br>
+Features: site customization, responsive interface, one-click deployment, e-commerce, and appointment scheduling<br>
 Stack: Vue.js, NestJS, TailwindCSS, Kkiapay
 
 #### [Panneau Mobile client portal](https://pige.panneaumobile.co/)

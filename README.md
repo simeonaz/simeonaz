@@ -4,11 +4,24 @@ I’m a **full-stack web developer** with 2 years of professional experience. I 
 
 ### 🚀 Core Skills
 
-- **Frontend**: Vue.js, Nuxt.js, TailwindCSS
+<!-- - **Frontend**: Vue.js, Nuxt.js, TailwindCSS
 - **Backend**: NestJS, Node.js
 - **Databases**: MongoDB, PostgreSQL
 - **ORM/ODM**: TypeORM, Mongoose
-- **Tools & Methodologies**: Git, REST API, CI/CD, Agile
+- **Tools & Methodologies**: Git, REST API, CI/CD, Agile -->
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white&style=for-the-badge)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+- ![TypeORM](https://img.shields.io/badge/TypeORM-FF0000?logo=typeorm&logoColor=white&style=for-the-badge)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+  ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+  ![CI/CD](https://img.shields.io/badge/CI/CD-222222?logo=githubactions&logoColor=white&style=for-the-badge)
+  ![Agile](https://img.shields.io/badge/Agile-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 
 ---
 

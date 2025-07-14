@@ -20,13 +20,13 @@ Features: site customization, responsive interface, one-click deployment, e-comm
 Stack: Vue.js, NestJS, TailwindCSS, Kkiapay
 
 #### [Panneau Mobile client portal](https://pige.panneaumobile.co/)
-Client portal web application for real-time campaign tracking and performance monitoring.
-Features: personalized dashboards, admin-controlled data updates, performance alerts, responsive interface, and real-time geolocation of advertising devices.
+Client portal web application for real-time campaign tracking and performance monitoring.<br>
+Features: personalized dashboards, admin-controlled data updates, performance alerts, responsive interface, and real-time geolocation of advertising devices.<br>
 Stack: Vue.js, NestJS, TailwindCSS, Firebase
 
 #### [AEP Parakou](https://aep.parakou.bj)
-Management platform for drinking water supply facilities in the city of Parakou, Benin. 
-Features: real-time system tracking, team-based access management, alert notifications, and performance reporting.
+Management platform for drinking water supply facilities in the city of Parakou, Benin.<br>
+Features: real-time system tracking, team-based access management, alert notifications, and performance reporting.<br>
 Stack: Vue.js, CodeIgnitter, CoreUI
 
 ---

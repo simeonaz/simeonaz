@@ -22,17 +22,18 @@ I’m a **full-stack web developer** with 2 years of professional experience. I 
 
 ### 💼 Selected Projects
 
-#### [Iryka](https://app.iryka.com/)
+#### <a href="https://app.iryka.com/" target="_blank">Iryka</a>
 Website creation platform built on a modular template gallery.<br>
 Features: site customization, responsive interface, one-click deployment, e-commerce, and appointment scheduling<br>
 Stack: Vue.js, NestJS, TailwindCSS, Kkiapay
 
-#### [Panneau Mobile client portal](https://pige.panneaumobile.co/)
+#### <a href="https://pige.panneaumobile.co/" target="_blank">Panneau Mobile client portal</a>
 Client portal web application for real-time campaign tracking and performance monitoring.<br>
 Features: personalized dashboards, admin-controlled data updates, performance alerts, responsive interface, and real-time geolocation of advertising devices.<br>
 Stack: Vue.js, NestJS, TailwindCSS, Firebase
 
-#### [AEP Parakou](https://aep.parakou.bj)
+<!-- #### [AEP Parakou](https://aep.parakou.bj) -->
+#### <a href="https://aep.parakou.bj" target="_blank">AEP Parakou</a>
 Management platform for drinking water supply facilities in the city of Parakou, Benin.<br>
 Features: real-time system tracking, team-based access management, alert notifications, and performance reporting.<br>
 Stack: Vue.js, CodeIgnitter, CoreUI
@@ -50,9 +51,9 @@ Stack: Vue.js, CodeIgnitter, CoreUI
 
 ### 📫 Contact Me
 
-- Portfolio: [simeonaz.netlify.app](https://simeonaz.netlify.app)
-- LinkedIn: [in/simeonaz](https://linkedin.com/in/simeonaz)
-- X: [@SimeonAzogbonon](https://x.com/SimeonAzogbonon)
+- Portfolio: <a href="https://simeonaz.netlify.app" target="_blank">simeonaz.netlify.app</a>
+- LinkedIn: <a href="https://linkedin.com/in/simeonaz" target="_blank">in/simeonaz</a>
+- X: <a href="https://x.com/SimeonAzogbonon" target="_blank">@SimeonAzogbonon</a>
 
 ---
 

@@ -4,12 +4,7 @@ I’m a **full-stack web developer** with 2 years of professional experience. I 
 
 ### 🚀 Core Skills
 
-<!-- - **Frontend**: Vue.js, Nuxt.js, TailwindCSS
-- **Backend**: NestJS, Node.js
-- **Databases**: MongoDB, PostgreSQL
-- **ORM/ODM**: TypeORM, Mongoose
-- **Tools & Methodologies**: Git, REST API, CI/CD, Agile -->
-- **Frontend**: ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)
   ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white&style=for-the-badge)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)

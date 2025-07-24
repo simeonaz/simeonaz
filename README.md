@@ -20,7 +20,7 @@ I’m a **full-stack web developer** with 2 years of professional experience. I 
 
 ---
 
-### 💼 Selected Projects
+<!-- ### 💼 Selected Projects
 
 #### <a href="https://app.iryka.com/" target="_blank">Iryka</a>
 Website creation platform built on a modular template gallery.<br>
@@ -32,13 +32,12 @@ Client portal web application for real-time campaign tracking and performance mo
 Features: personalized dashboards, admin-controlled data updates, performance alerts, responsive interface, and real-time geolocation of advertising devices.<br>
 Stack: Vue.js, NestJS, TailwindCSS, Firebase
 
-<!-- #### [AEP Parakou](https://aep.parakou.bj) -->
 #### <a href="https://aep.parakou.bj" target="_blank">AEP Parakou</a>
 Management platform for drinking water supply facilities in the city of Parakou, Benin.<br>
 Features: real-time system tracking, team-based access management, alert notifications, and performance reporting.<br>
 Stack: Vue.js, CodeIgnitter, CoreUI
 
----
+--- -->
 
 ### 🌱 Currently Learning and Open To Work
 

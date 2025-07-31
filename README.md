@@ -50,7 +50,7 @@ Stack: Vue.js, CodeIgnitter, CoreUI
 
 ### 📫 Contact Me
 
-- Portfolio: <a href="https://simeonaz.netlify.app" target="_blank">simeonaz.netlify.app</a>
+- Portfolio: <a href="https://simeonaz.vercel.app/" target="_blank">simeonaz.vercel.app</a>
 - LinkedIn: <a href="https://linkedin.com/in/simeonaz" target="_blank">in/simeonaz</a>
 - X: <a href="https://x.com/SimeonAzogbonon" target="_blank">@SimeonAzogbonon</a>
 

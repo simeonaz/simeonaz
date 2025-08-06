@@ -41,7 +41,7 @@ Stack: Vue.js, CodeIgnitter, CoreUI
 
 ### 🌱 Currently Learning and Open To Work
 
-- Improving my proficiency in Nuxt.js to build more efficient and scalable applications.  
+- Learning React.js.  
 - Developing an interest in Python and exploring the field of Artificial Intelligence.
 - Actively seeking a company where I can apply my web development skills to real-world projects.
 

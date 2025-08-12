@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Siméon!
 
-I’m a **full-stack web developer** with 2 years of professional experience. I enjoy building performant and elegant applications using modern web technologies.
+I’m a **full-stack web developer** with +2 years of professional experience. I enjoy building performant and elegant applications using modern web technologies.
 
 ### 🚀 Core Skills
 

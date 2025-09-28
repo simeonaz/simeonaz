@@ -37,7 +37,7 @@ Management platform for drinking water supply facilities in the city of Parakou,
 Features: real-time system tracking, team-based access management, alert notifications, and performance reporting.<br>
 Stack: Vue.js, CodeIgnitter, CoreUI
 
---- -->
+---
 
 ### 🌱 Currently Learning and Open To Work
 
@@ -46,7 +46,7 @@ Stack: Vue.js, CodeIgnitter, CoreUI
 - Actively seeking a company where I can apply my web development skills to real-world projects.
 
 
----
+---  -->
 
 ### 📫 Contact Me
 
